@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# React build output
+client/build/
+
+# IDE settings (optional)
+.vscode/
+
+# Coverage and debug files
+coverage/
+*.log
+
+# Database dumps (optional)
+*.sql
+*.sqlite
+*.bak
